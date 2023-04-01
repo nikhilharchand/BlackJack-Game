@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(3, 75, 3);
+    text-align:Center;
+    color:white;
+    font-weight: bold;
+}
+h1 {
+    color: rgb(219, 168, 38);
+    
+}
+
+#message-el{
+    font-style: italic;
+
+}
+
+button{
+    color: rgb(3, 75, 3);
+    width: 150px;
+    background: rgb(219, 168, 38);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight:bold;
+    border:none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top:2px;
+    
+
+
+}
